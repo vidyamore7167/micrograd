@@ -71,3 +71,23 @@ python -m pytest
 ### License
 
 MIT
+
+
+## Getting Started
+
+Micrograd is a small educational library that demonstrates
+the fundamentals of automatic differentiation and neural networks.
+
+### Learning Objectives
+
+- Understand automatic differentiation.
+- Learn the basics of computational graphs.
+- Explore neural network implementation.
+- Understand how gradients are calculated.
+
+### Running the Project
+
+1. Clone the repository.
+2. Install Python.
+3. Explore the example notebooks.
+4. Run the examples to understand neural network operations.
